@@ -1,5 +1,7 @@
 # track-O-expense
 
+This is an expense tracker app which keeps track of income and expenses and save it to a local storage. Build with react hooks and context API.
+
 ## Available Scripts
 
 In the project directory, you can run:
